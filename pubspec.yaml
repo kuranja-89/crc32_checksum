@@ -1,7 +1,7 @@
 name: crc32_checksum
 description: A new Flutter package that calculate crc32 checksum value for given string.
 version: 0.0.1
-homepage: coming soon
+homepage: https://github.com/kuranja-89/crc32_checksum
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
