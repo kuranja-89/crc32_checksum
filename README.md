@@ -8,11 +8,11 @@ https://en.wikipedia.org/wiki/Cyclic_redundancy_check
 
 
 
-Import import 'package:crc32_checksum/crc32_checksum.dart';
+Import:  import 'package:crc32_checksum/crc32_checksum.dart';
 
 Example:
 
-Import import 'package:crc32_checksum/crc32_checksum.dart';
+import 'package:crc32_checksum/crc32_checksum.dart';
 
 String inputValue = "Please add here your input String value";
 
